@@ -541,9 +541,7 @@ section {
 }
 
 @media (max-width: 768px) {
-  .logo {
-    font-size: 100px;
-  }
+ 
   .about-image {
     height: 350px;
   }
@@ -1448,16 +1446,9 @@ footer {
 }
 
 /* Mobile - 480px */
-@media (max-width: 411px) {
-  .logo {
-    font-size: 10px;
-  }
-}
 
 @media (max-width: 480px) {
-  .logo {
-    font-size: 25px;
-  }
+ 
   html {
     font-size: 14px;
   }
@@ -1546,9 +1537,7 @@ footer {
 
 /* Extra small devices */
 @media (max-width: 360px) {
-  .logo {
-    font-size: 50px;
-  }
+ 
   .hero-title {
     font-size: 1.7rem;
   }

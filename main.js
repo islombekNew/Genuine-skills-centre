@@ -233,7 +233,7 @@ const studentsData = [
     { name: "Maxamadaliyeva Mehribon", year: 2026, date: "16 yanvar 2026", image: "👧", certImage: "img/sertifikatlar/Screenshot 2026-01-16 222632.png" },
     { name: "Akbaraliyeva Husnidaxon", year: 2026, date: "16-yanvar 2026", image: "👧", certImage: "img/sertifikatlar/Screenshot 2026-01-16 222916.png" },
     { name: "Xudoberdiyeva Muslimaxon", year: 2026, date: "16-yanvar 2026", image: "👧", certImage: "img/sertifikatlar/Screenshot 2026-01-16 223134.png" },
-    { name: "Po'latov Abdullajon", year: 2026, date: "16-yanvar 2026", image: "👦", certImage: "img/sertifikatlar/Screenshot 2026-01-16 223333.png" },
+    { name: "Po'latov Abdullajon", year: 2026, date: "16-yanvar 2026", image: "👦", certImage: "img/sertifikatlar/Screenshot 2026-01-17 162800.png" },
     { name: "Nurmatova Laylo", year: 2023, date: "30 Avgust 2023", image: "👧", certImage: "img/sertifikatlar/laylo.jpg" },
     { name: "Ismoilov Akmal", year: 2022, date: "12 Sentabr 2022", image: "👦", certImage: "img/sertifikatlar/akmal.jpg" },
     { name: "Hasanova Gulnora", year: 2022, date: "8 Oktabr 2022", image: "👧", certImage: "img/sertifikatlar/gulnora.jpg" },
