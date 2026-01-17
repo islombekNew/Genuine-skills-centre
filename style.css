@@ -134,8 +134,7 @@ nav {
 .logo {
   font-size: 1.8rem;
   font-weight: 700;
-  background: var(--gradient);
-  -webkit-text-fill-color: transparent;
+  color: var(--gradient);
   background-clip: text;
   display: flex;
   align-items: center;
