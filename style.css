@@ -544,6 +544,9 @@ section {
 }
 
 @media (max-width: 768px) {
+  .logo{
+    font-size: 100px;
+  }
   .about-image {
     height: 350px;
   }
@@ -1451,6 +1454,9 @@ footer {
 
 /* Mobile - 480px */
 @media (max-width: 480px) {
+  .logo{
+    font-size: 70px;
+  }
   html {
     font-size: 14px;
   }
